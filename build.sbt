@@ -1,4 +1,4 @@
 
-version := "0.9.19"
+version := "0.9.20"
 
 isSnapshot := false
