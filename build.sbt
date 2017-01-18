@@ -1,4 +1,4 @@
 
-version := "0.9.22"
+version := "0.1.0"
 
-isSnapshot := false
+isSnapshot := true
